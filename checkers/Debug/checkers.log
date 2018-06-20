@@ -1,0 +1,4 @@
+﻿  files.c
+p:\_study\pk\repo\project\checkers\checkers\files.c(12): warning C4013: niezdefiniowany "exit"; przy założeniu, że extern zwraca int
+p:\_study\pk\repo\project\checkers\checkers\files.c(29): warning C4098: "readArrayFromFile": funkcja "void" zwraca wartość
+  checkers.vcxproj -> P:\_study\pk\repo\project\checkers\Debug\checkers.exe
